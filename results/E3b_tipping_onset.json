@@ -1,0 +1,1308 @@
+{
+ "Karate club": [
+  {
+   "p": 0,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 0,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 0,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 0,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 0,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 0,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.08823529411764706
+  },
+  {
+   "p": 1,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 1,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 1,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 1,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 1,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 1,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.058823529411764705
+  },
+  {
+   "p": 2,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 2,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 2,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 2,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 2,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 2,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.08823529411764706
+  },
+  {
+   "p": 3,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 3,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 3,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 3,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 3,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 3,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.058823529411764705
+  },
+  {
+   "p": 4,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 4,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 4,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 4,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 4,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 4,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.058823529411764705
+  },
+  {
+   "p": 5,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 5,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 5,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 5,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 5,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 5,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 6,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 6,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 6,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 6,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 6,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 6,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.058823529411764705
+  },
+  {
+   "p": 7,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 7,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 7,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 7,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.058823529411764705
+  },
+  {
+   "p": 7,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.058823529411764705
+  },
+  {
+   "p": 7,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.058823529411764705
+  },
+  {
+   "p": 8,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 8,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 8,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 8,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 8,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 8,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.08823529411764706
+  },
+  {
+   "p": 9,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 9,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 9,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 9,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.14705882352941177
+  },
+  {
+   "p": 9,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.14705882352941177
+  },
+  {
+   "p": 9,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.14705882352941177
+  },
+  {
+   "p": 10,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 10,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 10,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 10,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 10,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 10,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.08823529411764706
+  },
+  {
+   "p": 11,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 11,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 11,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.029411764705882353
+  },
+  {
+   "p": 11,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.058823529411764705
+  },
+  {
+   "p": 11,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.058823529411764705
+  },
+  {
+   "p": 11,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.058823529411764705
+  }
+ ],
+ "Les Mis\u00e9rables": [
+  {
+   "p": 0,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 0,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 0,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 0,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.025974025974025976
+  },
+  {
+   "p": 0,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.12987012987012986
+  },
+  {
+   "p": 0,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.12987012987012986
+  },
+  {
+   "p": 1,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 1,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 1,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 1,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 1,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.12987012987012986
+  },
+  {
+   "p": 1,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.12987012987012986
+  },
+  {
+   "p": 2,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 2,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 2,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 2,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 2,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.03896103896103896
+  },
+  {
+   "p": 2,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.03896103896103896
+  },
+  {
+   "p": 3,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 3,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 3,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 3,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 3,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.03896103896103896
+  },
+  {
+   "p": 3,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.05194805194805195
+  },
+  {
+   "p": 4,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 4,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 4,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 4,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 4,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.025974025974025976
+  },
+  {
+   "p": 4,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.12987012987012986
+  },
+  {
+   "p": 5,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 5,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 5,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 5,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 5,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.025974025974025976
+  },
+  {
+   "p": 5,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.06493506493506493
+  },
+  {
+   "p": 6,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 6,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 6,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 6,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 6,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.025974025974025976
+  },
+  {
+   "p": 6,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.05194805194805195
+  },
+  {
+   "p": 7,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 7,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 7,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 7,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 7,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.06493506493506493
+  },
+  {
+   "p": 7,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.07792207792207792
+  },
+  {
+   "p": 8,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 8,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 8,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 8,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 8,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.06493506493506493
+  },
+  {
+   "p": 8,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.07792207792207792
+  },
+  {
+   "p": 9,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 9,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 9,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 9,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 9,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.03896103896103896
+  },
+  {
+   "p": 9,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.06493506493506493
+  },
+  {
+   "p": 10,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 10,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 10,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 10,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 10,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.03896103896103896
+  },
+  {
+   "p": 10,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.03896103896103896
+  },
+  {
+   "p": 11,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 11,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 11,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 11,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.012987012987012988
+  },
+  {
+   "p": 11,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.05194805194805195
+  },
+  {
+   "p": 11,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.05194805194805195
+  }
+ ],
+ "Directed ER": [
+  {
+   "p": 0,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.006666666666666667
+  },
+  {
+   "p": 0,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.02
+  },
+  {
+   "p": 0,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.04666666666666667
+  },
+  {
+   "p": 0,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.08
+  },
+  {
+   "p": 0,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.12
+  },
+  {
+   "p": 0,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.14
+  },
+  {
+   "p": 1,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.006666666666666667
+  },
+  {
+   "p": 1,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.02
+  },
+  {
+   "p": 1,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.04666666666666667
+  },
+  {
+   "p": 1,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.07666666666666666
+  },
+  {
+   "p": 1,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.11666666666666667
+  },
+  {
+   "p": 1,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.13333333333333333
+  },
+  {
+   "p": 2,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.006666666666666667
+  },
+  {
+   "p": 2,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.02
+  },
+  {
+   "p": 2,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.043333333333333335
+  },
+  {
+   "p": 2,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.08333333333333333
+  },
+  {
+   "p": 2,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.12333333333333334
+  },
+  {
+   "p": 2,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.13666666666666666
+  },
+  {
+   "p": 3,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.006666666666666667
+  },
+  {
+   "p": 3,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.02
+  },
+  {
+   "p": 3,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.043333333333333335
+  },
+  {
+   "p": 3,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.08
+  },
+  {
+   "p": 3,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.12333333333333334
+  },
+  {
+   "p": 3,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.14666666666666667
+  }
+ ],
+ "Directed SBM": [
+  {
+   "p": 0,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.006666666666666667
+  },
+  {
+   "p": 0,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.02
+  },
+  {
+   "p": 0,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.03666666666666667
+  },
+  {
+   "p": 0,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.06666666666666667
+  },
+  {
+   "p": 0,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.09333333333333334
+  },
+  {
+   "p": 0,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.12333333333333334
+  },
+  {
+   "p": 1,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.006666666666666667
+  },
+  {
+   "p": 1,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.02
+  },
+  {
+   "p": 1,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.03333333333333333
+  },
+  {
+   "p": 1,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.08
+  },
+  {
+   "p": 1,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.13666666666666666
+  },
+  {
+   "p": 1,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.15
+  },
+  {
+   "p": 2,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.006666666666666667
+  },
+  {
+   "p": 2,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.05333333333333334
+  },
+  {
+   "p": 2,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.09
+  },
+  {
+   "p": 2,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.12333333333333334
+  },
+  {
+   "p": 2,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.15333333333333332
+  },
+  {
+   "p": 2,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.15666666666666668
+  },
+  {
+   "p": 3,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.006666666666666667
+  },
+  {
+   "p": 3,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.013333333333333334
+  },
+  {
+   "p": 3,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.05
+  },
+  {
+   "p": 3,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.06333333333333334
+  },
+  {
+   "p": 3,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.12
+  },
+  {
+   "p": 3,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.17666666666666667
+  }
+ ],
+ "Directed heavy-tailed": [
+  {
+   "p": 0,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.0026109660574412533
+  },
+  {
+   "p": 0,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.0026109660574412533
+  },
+  {
+   "p": 0,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.005221932114882507
+  },
+  {
+   "p": 0,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.005221932114882507
+  },
+  {
+   "p": 0,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.007832898172323759
+  },
+  {
+   "p": 0,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.010443864229765013
+  },
+  {
+   "p": 1,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.0026109660574412533
+  },
+  {
+   "p": 1,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.0026109660574412533
+  },
+  {
+   "p": 1,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.0026109660574412533
+  },
+  {
+   "p": 1,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.005221932114882507
+  },
+  {
+   "p": 1,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.007832898172323759
+  },
+  {
+   "p": 1,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.010443864229765013
+  },
+  {
+   "p": 2,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.0026109660574412533
+  },
+  {
+   "p": 2,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.0026109660574412533
+  },
+  {
+   "p": 2,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.005221932114882507
+  },
+  {
+   "p": 2,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.005221932114882507
+  },
+  {
+   "p": 2,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.007832898172323759
+  },
+  {
+   "p": 2,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.010443864229765013
+  },
+  {
+   "p": 3,
+   "ratio": 1.1,
+   "rule": "Onset Perron",
+   "pc": 0.0026109660574412533
+  },
+  {
+   "p": 3,
+   "ratio": 1.25,
+   "rule": "Onset Perron",
+   "pc": 0.0026109660574412533
+  },
+  {
+   "p": 3,
+   "ratio": 1.5,
+   "rule": "Onset Perron",
+   "pc": 0.0026109660574412533
+  },
+  {
+   "p": 3,
+   "ratio": 2,
+   "rule": "Onset Perron",
+   "pc": 0.005221932114882507
+  },
+  {
+   "p": 3,
+   "ratio": 3,
+   "rule": "Onset Perron",
+   "pc": 0.007832898172323759
+  },
+  {
+   "p": 3,
+   "ratio": 5,
+   "rule": "Onset Perron",
+   "pc": 0.010443864229765013
+  }
+ ]
+}

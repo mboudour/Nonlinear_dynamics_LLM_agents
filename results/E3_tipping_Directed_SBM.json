@@ -1,0 +1,4226 @@
+[
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Out-strength",
+  "pc": 0.01
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Eigenvector",
+  "pc": 0.01
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Katz",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "FJ broadcasting",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Jacobian Perron",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Flip threshold",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.01
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.01
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.02
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.02
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Out-strength",
+  "pc": 0.02
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Eigenvector",
+  "pc": 0.02
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Katz",
+  "pc": 0.02
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "FJ broadcasting",
+  "pc": 0.023333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Jacobian Perron",
+  "pc": 0.023333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Flip threshold",
+  "pc": 0.023333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.043333333333333335
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.02666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.02666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.043333333333333335
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.043333333333333335
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.04666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.04
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.04
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.043333333333333335
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.04666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.04
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.04
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Out-strength",
+  "pc": 0.03
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Eigenvector",
+  "pc": 0.04
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Katz",
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "FJ broadcasting",
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Jacobian Perron",
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Flip threshold",
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.07
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.07333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.06
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.056666666666666664
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.056666666666666664
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.07
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.07666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.07
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.07666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.056666666666666664
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.07333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.08
+ },
+ {
+  "p": 0,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Out-strength",
+  "pc": 0.06
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Eigenvector",
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Katz",
+  "pc": 0.07
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "FJ broadcasting",
+  "pc": 0.07
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Jacobian Perron",
+  "pc": 0.07333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Flip threshold",
+  "pc": 0.07
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.12
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.13
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.1
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.10666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.13333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.12
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.10333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.11333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.09666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.10666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.11333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.11
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.11
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.09333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.11333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Out-strength",
+  "pc": 0.09666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Eigenvector",
+  "pc": 0.09333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Katz",
+  "pc": 0.09333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "FJ broadcasting",
+  "pc": 0.10666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Jacobian Perron",
+  "pc": 0.16
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Flip threshold",
+  "pc": 0.10666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.15
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.16666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.15333333333333332
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.16666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.16666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.18666666666666668
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.15
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.15
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.16
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.15
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.16333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.17333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.15666666666666668
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.16
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.16666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.15
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.15333333333333332
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.18333333333333332
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.16333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.16
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Out-strength",
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Eigenvector",
+  "pc": 0.11333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Katz",
+  "pc": 0.12
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "FJ broadcasting",
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Jacobian Perron",
+  "pc": 0.2633333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Flip threshold",
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.16333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.19333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.19333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.19
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.19333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.2
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.17666666666666667
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.17
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.19333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.20333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.20333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.19666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.2
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.17
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.18
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.19666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.19666666666666666
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.19333333333333333
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.17333333333333334
+ },
+ {
+  "p": 0,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.19666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Out-strength",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Eigenvector",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Katz",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "FJ broadcasting",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Jacobian Perron",
+  "pc": 0.01
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Flip threshold",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.01
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.02
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.01
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.02
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.02
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Out-strength",
+  "pc": 0.02
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Eigenvector",
+  "pc": 0.02
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Katz",
+  "pc": 0.02
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "FJ broadcasting",
+  "pc": 0.02
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Jacobian Perron",
+  "pc": 0.05333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Flip threshold",
+  "pc": 0.02
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.04
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.03
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.04666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.03
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.043333333333333335
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.04
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.043333333333333335
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.043333333333333335
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.04
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Out-strength",
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Eigenvector",
+  "pc": 0.04
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Katz",
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "FJ broadcasting",
+  "pc": 0.04
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Jacobian Perron",
+  "pc": 0.08333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Flip threshold",
+  "pc": 0.04
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.05333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.07
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.07
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.07333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.08
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.07
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.08
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.07666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.07
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.07
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.07
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.056666666666666664
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.07
+ },
+ {
+  "p": 1,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.08333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Out-strength",
+  "pc": 0.06
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Eigenvector",
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Katz",
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "FJ broadcasting",
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Jacobian Perron",
+  "pc": 0.14666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Flip threshold",
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.12666666666666668
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.10666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.12
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.11333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.10333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.11
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.11
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.11
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.11
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.1
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.10333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.10666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.1
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.13333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.12666666666666668
+ },
+ {
+  "p": 1,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.11333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Out-strength",
+  "pc": 0.09333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Eigenvector",
+  "pc": 0.09333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Katz",
+  "pc": 0.09
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "FJ broadcasting",
+  "pc": 0.08666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Jacobian Perron",
+  "pc": 0.2
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Flip threshold",
+  "pc": 0.08666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.16
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.18333333333333332
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.14666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.15333333333333332
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.14666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.14333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.16333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.15
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.15666666666666668
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.15
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.15666666666666668
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.14
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.17666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.18333333333333332
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.16
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.15
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.16666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.15
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.14333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.17666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Out-strength",
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Eigenvector",
+  "pc": 0.10666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Katz",
+  "pc": 0.12666666666666668
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "FJ broadcasting",
+  "pc": 0.1
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Jacobian Perron",
+  "pc": 0.23666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Flip threshold",
+  "pc": 0.1
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.20333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.18
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.16666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.22333333333333333
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.17
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.16666666666666666
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.17
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.18333333333333332
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.20333333333333334
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.2
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.21
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.21
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.19
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.15666666666666668
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.20666666666666667
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.18333333333333332
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.2
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.17
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.18
+ },
+ {
+  "p": 1,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.18666666666666668
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Out-strength",
+  "pc": 0.01
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Eigenvector",
+  "pc": 0.01
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Katz",
+  "pc": 0.01
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "FJ broadcasting",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Jacobian Perron",
+  "pc": 0.01
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Flip threshold",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.02
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.01
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.01
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.02
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.02
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.02
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.02
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.02
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.02
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Out-strength",
+  "pc": 0.02
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Eigenvector",
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Katz",
+  "pc": 0.02
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "FJ broadcasting",
+  "pc": 0.023333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Jacobian Perron",
+  "pc": 0.023333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Flip threshold",
+  "pc": 0.023333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.04
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.04666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.04
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.03
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.02666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.03
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.043333333333333335
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.043333333333333335
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.03
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.04666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Out-strength",
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Eigenvector",
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Katz",
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "FJ broadcasting",
+  "pc": 0.043333333333333335
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Jacobian Perron",
+  "pc": 0.04
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Flip threshold",
+  "pc": 0.043333333333333335
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.06
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.056666666666666664
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.07333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.07
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.07666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.07333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.07666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.07
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.07333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.08
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.06
+ },
+ {
+  "p": 2,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Out-strength",
+  "pc": 0.06
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Eigenvector",
+  "pc": 0.07
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Katz",
+  "pc": 0.07
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "FJ broadcasting",
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Jacobian Perron",
+  "pc": 0.07333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Flip threshold",
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.13333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.11
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.09666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.11333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.12
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.10333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.1
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.10666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.1
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.11
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.11
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.11
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.11
+ },
+ {
+  "p": 2,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Out-strength",
+  "pc": 0.09333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Eigenvector",
+  "pc": 0.09333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Katz",
+  "pc": 0.09
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "FJ broadcasting",
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Jacobian Perron",
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Flip threshold",
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.16333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.16
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.16
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.15
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.16333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.18
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.16666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.14666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.15
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.17666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.15
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.15
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.16333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.18
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.14666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.15666666666666668
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.15666666666666668
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.17
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.17
+ },
+ {
+  "p": 2,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.16
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Out-strength",
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Eigenvector",
+  "pc": 0.10666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Katz",
+  "pc": 0.12
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "FJ broadcasting",
+  "pc": 0.14333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Jacobian Perron",
+  "pc": 0.15333333333333332
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Flip threshold",
+  "pc": 0.14333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.17666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.18666666666666668
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.18666666666666668
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.19666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.15333333333333332
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.16666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.18
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.19333333333333333
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.19666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.23
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.19
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.19666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.17333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.16666666666666666
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.18666666666666668
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.18333333333333332
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.17333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.23333333333333334
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.17666666666666667
+ },
+ {
+  "p": 2,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.20666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Out-strength",
+  "pc": 0.01
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Eigenvector",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Katz",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "FJ broadcasting",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Jacobian Perron",
+  "pc": 0.01
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Flip threshold",
+  "pc": 0.006666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.01
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.01
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.01
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.016666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.1,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.01
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Out-strength",
+  "pc": 0.02
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Eigenvector",
+  "pc": 0.013333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Katz",
+  "pc": 0.02
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "FJ broadcasting",
+  "pc": 0.02
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Jacobian Perron",
+  "pc": 0.056666666666666664
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Flip threshold",
+  "pc": 0.02
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.04666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.04
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.04
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.04
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.05
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.05
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.04
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.03
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.03666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.04666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.02666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.03
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.03
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.04
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.04666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.04
+ },
+ {
+  "p": 3,
+  "ratio": 1.25,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Out-strength",
+  "pc": 0.03
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Eigenvector",
+  "pc": 0.04
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Katz",
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "FJ broadcasting",
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Jacobian Perron",
+  "pc": 0.08666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Flip threshold",
+  "pc": 0.03333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.07333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.06
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.05333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.08333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.07666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.07666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.09
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.07
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.05
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.056666666666666664
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.07666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.08333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.07333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.08333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.07666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 1.5,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.05333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Out-strength",
+  "pc": 0.06
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Eigenvector",
+  "pc": 0.06333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Katz",
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "FJ broadcasting",
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Jacobian Perron",
+  "pc": 0.15666666666666668
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Flip threshold",
+  "pc": 0.06666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.10333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.11333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.09
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.12666666666666668
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.10333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.13666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.12
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.1
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.10333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.10333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.09666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.11
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.09666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.11333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.11333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.11333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.11
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.11333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 2,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Out-strength",
+  "pc": 0.09333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Eigenvector",
+  "pc": 0.09333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Katz",
+  "pc": 0.09
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "FJ broadcasting",
+  "pc": 0.08333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Jacobian Perron",
+  "pc": 0.24
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Flip threshold",
+  "pc": 0.08333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.17
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.13333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.16333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.21
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.17333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.16333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.13333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.15
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.13333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.14333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.16
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.18333333333333332
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.13333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.15
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.16333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.15666666666666668
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.18666666666666668
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.16666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 3,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.15
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Out-strength",
+  "pc": 0.11666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Eigenvector",
+  "pc": 0.10666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Katz",
+  "pc": 0.12666666666666668
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "FJ broadcasting",
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Jacobian Perron",
+  "pc": 0.31333333333333335
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Flip threshold",
+  "pc": 0.12333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 0,
+  "pc": 0.19333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 1,
+  "pc": 0.19333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 2,
+  "pc": 0.21
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 3,
+  "pc": 0.19333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 4,
+  "pc": 0.22
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 5,
+  "pc": 0.19
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 6,
+  "pc": 0.20333333333333334
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 7,
+  "pc": 0.19
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 8,
+  "pc": 0.18666666666666668
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 9,
+  "pc": 0.18333333333333332
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 10,
+  "pc": 0.19333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 11,
+  "pc": 0.19666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 12,
+  "pc": 0.23
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 13,
+  "pc": 0.18
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 14,
+  "pc": 0.18666666666666668
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 15,
+  "pc": 0.16
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 16,
+  "pc": 0.16666666666666666
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 17,
+  "pc": 0.19333333333333333
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 18,
+  "pc": 0.17666666666666667
+ },
+ {
+  "p": 3,
+  "ratio": 5,
+  "rule": "Random",
+  "draw": 19,
+  "pc": 0.19
+ }
+]
