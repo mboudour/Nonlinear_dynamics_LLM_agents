@@ -86,7 +86,7 @@ for k, net in enumerate(['Karate club', 'Directed ER']):
             if rule == 'Random': dd = dd.groupby(['p', 'eps']).pc.mean().reset_index()
             st = dd.groupby('eps').pc.agg(['mean', 'sem'])
             ax[k].errorbar(st.index, st['mean'], yerr=st['sem'], color=C[0] if rule == 'Random' else C[1], ls=ls,
-                           marker=MK[j], ms=3, capsize=1.5, label=f'{rule}, toward {tw} side'); j += 1
+                           marker=MK[j], ms=3, capsize=1.5, label=f"{rule}, toward {tw.replace('favoured', 'favored')} side"); j += 1
     ax[k].set_title(net, fontsize=7.5); ax[k].set_xlabel(r'channel bias $\varepsilon$')
 ax[0].set_ylabel(r'tipping fraction $p_c$')
 h_, l_ = ax[0].get_legend_handles_labels(); fig.legend(h_, l_, loc='lower center', ncol=2, fontsize=6.3)
